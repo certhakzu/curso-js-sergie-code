@@ -1,0 +1,1 @@
+document.getElementById('demostracion').innerHTML = "Este texto será transformado por JS";
